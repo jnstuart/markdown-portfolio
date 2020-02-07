@@ -1,2 +1,5 @@
 title: Welcome to my portfolio!
 theme: jekyll-theme-primer
+
+- name: Hello Action
+  uses: wxdlong/hello-action@v7
